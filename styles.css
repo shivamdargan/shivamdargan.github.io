@@ -327,11 +327,15 @@ a img{
   background-color: #37474f;
 }
 
+.back{
+  background: url('https://www.navitasventures.com/wp-content/uploads/2016/06/Material-design-background-514054880_2126x1416-1024x682.jpeg') center;
+  background-size: auto;
+
+}
+
 .android-wear-band-text {
-  max-width: 800px;
-  margin-left: 25%;
-  padding: 24px;
-  text-align: left;
+
+  text-align: center;
   color: white;
 }
 
@@ -542,7 +546,7 @@ a img{
 
   .android-wear-band-text {
     margin-left: 0;
-    padding: 16px;
+    padding: 0px;
   }
 
   .android-footer .mdl-mega-footer--bottom-section {
@@ -552,6 +556,7 @@ a img{
 
 .cpp-image{
   width: 50px;
+  
 }
 
 .skill-text{
@@ -563,4 +568,9 @@ a img{
 }
 .size{
   font-size: 47px;
+}
+
+.social-btn {
+  text-decoration: none;
+  padding:10px;
 }
