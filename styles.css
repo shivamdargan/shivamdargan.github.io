@@ -407,9 +407,6 @@ a img{
     padding-bottom: 24px;
   }
 
-.android-card-container {
-}
-
   .android-card-container .mdl-card__media {
     overflow: hidden;
     background: transparent;
@@ -584,9 +581,16 @@ a img{
   color:black;
   font-family: "Sofia";
   font-size: 22px;
+  text-align: center;
 }
 
 .achieve
 {
   text-align: left;
+}
+
+.quotes-box{
+  text-align: center;
+  padding: 20px;
+  margin-right: 100px;
 }
